@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  margin: 0px;
+  background-color: grey;
+
+}
+
+.heading{
+
+  color: hotpink;
+  background-color:#61dafb
+
+}
+
+.navBar{
+
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.list {
+
+  list-style: none;
+
+
+}
+
+.list li{
+
+  padding: 5px;
+  margin: 5px;;
+  background-color: teal;
+  color: white;
+  display: inline;
+}
